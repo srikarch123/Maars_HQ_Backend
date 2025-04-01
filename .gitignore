@@ -18,3 +18,4 @@ Thumbs.db
 # Ignore editor folders
 .vscode/
 .idea/
+publish_dummy.py
